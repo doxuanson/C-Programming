@@ -1,0 +1,4 @@
+20133299	Do Xuan Son	18-12-1995	Ha Noi	5
+20130001	Nguyen Van Son	23-1-1995	Ha Noi	6
+20130002	Do Xuan Hiep	22/5/2002	Ha Noi	7
+20130003	Dam Xuan Hien	18-12-1995	Ha Noi	8
